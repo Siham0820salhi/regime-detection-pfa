@@ -221,3 +221,6 @@ __marimo__/
 
 data/features.csv
 data/regimes_*.csv
+
+*.code-workspace
+data/sp500_vix.csv
