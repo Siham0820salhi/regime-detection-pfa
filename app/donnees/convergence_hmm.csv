@@ -1,0 +1,4 @@
+,% converges (tol 1e-3),iterations moy,iterations max,avertissements 'not converging'
+HMM (ret+vol20),1.0,81.0,150.0,0.0
+HMM sticky 2000 (ret+vol20),1.0,44.15,50.0,4.0
+HMM (ret seul),1.0,108.4,310.0,0.0

@@ -1,0 +1,5 @@
+,PELT,Jump K=2,HMM K=2 smoothed,HMM K=3 (ret seul)
+PELT,,0.385,0.692,0.808
+Jump K=2,0.382,,0.618,0.676
+HMM K=2 smoothed,0.27,0.27,,0.697
+HMM K=3 (ret seul),0.232,0.24,0.496,

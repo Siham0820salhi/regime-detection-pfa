@@ -1,0 +1,5 @@
+,% jours en alerte,precision,rappel,F1
+HMM walk-forward + hysteresis,0.2468,0.2992,0.9262,0.4523
+VIX > 30,0.0852,0.5122,0.5476,0.5293
+Prix < MA200,0.2214,0.3413,0.9476,0.5019
+Drawdown < -20 %,0.1435,0.3042,0.5476,0.3912

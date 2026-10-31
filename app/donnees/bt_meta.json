@@ -1,0 +1,42 @@
+{
+ "sp": {
+  "nom": "S&P 500",
+  "ppy": 252,
+  "source_p": "p_hmm_split_2015-01-01.csv"
+ },
+ "estoxx": {
+  "nom": "Euro Stoxx 50",
+  "ppy": 252,
+  "source_p": "robustesse_p_estoxx.csv"
+ },
+ "dax": {
+  "nom": "DAX (Allemagne)",
+  "ppy": 252,
+  "source_p": "robustesse_p_dax.csv"
+ },
+ "cac": {
+  "nom": "CAC 40 (France)",
+  "ppy": 252,
+  "source_p": "robustesse_p_cac.csv"
+ },
+ "ftse": {
+  "nom": "FTSE 100 (Royaume-Uni)",
+  "ppy": 252,
+  "source_p": "robustesse_p_ftse.csv"
+ },
+ "nasdaq": {
+  "nom": "Nasdaq",
+  "ppy": 252,
+  "source_p": "robustesse_p_nasdaq.csv"
+ },
+ "or": {
+  "nom": "Or",
+  "ppy": 252,
+  "source_p": "robustesse_p_or.csv"
+ },
+ "btc": {
+  "nom": "Bitcoin",
+  "ppy": 365,
+  "source_p": "robustesse_p_btc.csv"
+ }
+}

@@ -1,0 +1,11 @@
+,,0
+oos,P(crise) HMM walk-forward,0.9316179865798186
+oos,VIX,0.9133963570986472
+oos,Volatilite 20j,0.9197918201734997
+oos,Drawdown (inverse),0.8934200831147396
+oos,Distance sous MA200,0.9596289310029767
+insample,VIX,0.8839817362195835
+insample,Volatilite 20j,0.8756342946826962
+insample,Drawdown (inverse),0.8124384950304846
+insample,Distance sous MA200,0.9373782467299319
+insample,P(crise) HMM (parametres sur toute la periode),0.8462058363440728
