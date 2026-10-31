@@ -167,7 +167,7 @@ Période : 2000-2026, données quotidiennes. Rendements logarithmiques. Le MASI 
 
 **Perspectives :** loi de Student, détection de ruptures en ligne (BOCPD), exposition par paliers.
 
-## 10. Références (indicatives : à vérifier avant citation)
+## 10. Références
 
 - Hamilton (1989). *A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle.*
 - Rabiner (1989). *A Tutorial on Hidden Markov Models.*
