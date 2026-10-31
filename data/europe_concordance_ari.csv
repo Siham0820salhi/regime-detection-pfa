@@ -1,0 +1,6 @@
+,S&P 500 (reference),Euro Stoxx 50,DAX (Allemagne),CAC 40 (France),FTSE 100 (Royaume-Uni)
+S&P 500 (reference),1.0,0.252,0.283,0.302,0.244
+Euro Stoxx 50,0.252,1.0,0.64,0.696,0.421
+DAX (Allemagne),0.283,0.64,1.0,0.651,0.465
+CAC 40 (France),0.302,0.696,0.651,1.0,0.496
+FTSE 100 (Royaume-Uni),0.244,0.421,0.465,0.496,1.0
