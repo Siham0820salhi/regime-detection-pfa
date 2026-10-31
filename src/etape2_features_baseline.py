@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import yfinance as yf
 
 # ---------- 1. Données : lues depuis le fichier figé ----------
 df = pd.read_csv("data/sp500_vix_brut.csv", index_col=0, parse_dates=True)
