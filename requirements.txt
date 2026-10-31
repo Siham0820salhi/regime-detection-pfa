@@ -11,3 +11,6 @@ streamlit
 jupyter
 seaborn
 pandas-datareader
+plotly
+
+ 
