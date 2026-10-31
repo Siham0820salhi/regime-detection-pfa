@@ -1,0 +1,6 @@
+,diff Sharpe,IC95 bas,IC95 haut,P(diff<=0)
+HMM binaire WF - Buy & Hold,0.0812,-0.3027,0.4494,0.355
+HMM binaire WF - Prix > MA200,0.0517,-0.2503,0.3636,0.3825
+HMM graduel WF - Buy & Hold,0.1093,-0.2044,0.4418,0.259
+HMM graduel WF - Prix > MA200,0.0798,-0.1816,0.3211,0.3065
+HMM graduel WF - HMM binaire WF,0.0281,-0.0738,0.1398,0.303
