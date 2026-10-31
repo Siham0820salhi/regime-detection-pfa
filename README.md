@@ -5,7 +5,7 @@ Projet de fin d'année (PFA), Sujet 5 : Master DSBD, Faculté des Sciences Ben M
 **Auteure :** SALHI Siham
 **Encadrant :** Pr. SAID Nouh | **Co-encadrante :** SAIFI Wafae
 
-> **Application en ligne :** `[ajouter ici le lien Streamlit une fois déployée]`
+
 > **Avertissement :** projet pédagogique de recherche. Rien ici ne constitue un conseil en investissement.
 
 ---
