@@ -1,0 +1,7 @@
+,diff Sharpe,IC95 bas,IC95 haut,P(diff<=0)
+HMM K=2 - Buy & Hold,0.0684,-0.4088,0.5407,0.39
+HMM K=2 - Prix > MA200,0.1548,-0.253,0.5476,0.2205
+Jump K=2 online - Buy & Hold,-0.1337,-0.2994,0.0046,0.969
+Jump K=2 online - Prix > MA200,-0.0474,-0.4369,0.3455,0.6025
+Jump K=2 online - HMM K=2,-0.2022,-0.6988,0.2442,0.7995
+Prix > MA200 - Buy & Hold,-0.0863,-0.4782,0.3018,0.6505
